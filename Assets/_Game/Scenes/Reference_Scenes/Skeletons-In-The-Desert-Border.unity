@@ -88403,9 +88403,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1005242843}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f463fce4f0d03db43848ca9a675e272f, type: 3}
+  m_Script: {fileID: 11500000, guid: b8ccda1dbee36ab4985ab8f1258f1f41, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  maxHealth: 10
+  health: 0
 --- !u!1 &1019456124
 GameObject:
   m_ObjectHideFlags: 0
@@ -90281,7 +90283,7 @@ GameObject:
   - component: {fileID: 1458515291}
   - component: {fileID: 1458515292}
   m_Layer: 0
-  m_Name: Baby Dragon
+  m_Name: Skeleton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
